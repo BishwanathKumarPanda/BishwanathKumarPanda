@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishwanath Kumar Panda</h1>
 <h3 align="center">
   Hi, I'm Bishwanath, a passionate full-stack developer with a strong foundation in web development technologies. 
-  I thrive on crafting dynamic and responsive web applications that bring ideas to life. With a keen eye for design 
-  and a love for problem-solving, I enjoy every aspect of the development process. In summary, my passion for full-stack 
-  development, coupled with my expertise in HTML, CSS, JavaScript, the MERN stack, and databases like MySQL and MongoDB, 
-  positions me as a versatile and capable developer. I am dedicated to delivering high-quality solutions that meet the 
-  unique needs of each project, and I look forward to leveraging my skills to drive innovation and success in future endeavors.
+  I thrive on crafting dynamic and responsive web applications that bring ideas to life. 
 </h3>
 
 <p align="left">
