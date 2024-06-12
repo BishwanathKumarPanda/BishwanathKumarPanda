@@ -42,7 +42,7 @@
   <a href="https://codepen.io/@pravat-kumar-panda" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pravat-kumar-panda" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/panda-bishwanath-kumar-9a528526b/" target="blank">
+  <a href="https://www.linkedin.com/in/panda-bishwanath-kumar-9a528526b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panda bishwanath" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/bishwanath kumar panda" target="blank">
