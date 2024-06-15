@@ -34,6 +34,7 @@
 - 📄 Know about my experiences [https://github.com/BishwanathKumarPanda/Resume-/blob/main/SNIST%20Resume%20Bishwanath.pdf](https://github.com/BishwanathKumarPanda/Resume-/blob/main/SNIST%20Resume%20Bishwanath.pdf)
 
 - ⚡ Fun fact **Why did the React component get promoted to manager? Because it knew how to handle all the props!**
+- Buy me a coffee **https://www.buymeacoffee.com/BishwanathKumarPanda**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
