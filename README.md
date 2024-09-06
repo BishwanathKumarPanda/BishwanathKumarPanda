@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **pandapravatkumar5@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/BishwanathKumarPanda/Resume-/blob/main/SNIST%20Resume%20Bishwanath.pdf](https://github.com/BishwanathKumarPanda/Resume-/blob/main/SNIST%20Resume%20Bishwanath.pdf)
+- 📄 Know about my experiences https://github.com/BishwanathKumarPanda/Resume-/blob/main/Resume1(Bishwanath)%20(1).pdf
 
 - ⚡ Fun fact **Why did the React component get promoted to manager? Because it knew how to handle all the props!**
 - Buy me a coffee **https://www.buymeacoffee.com/BishwanathKumarPanda**
